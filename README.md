@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=checkerphil&label=Profile%20views&color=0e75b6&style=flat" alt="checkerphil" /> </p>
 
-- 🔭 I’m currently working on [Googloog](https://github.com/Googloog/googloog-website)
+- 🔭 I’m currently working on [FasterExplorer](https://github.com/CheckerPhil/FasterExplorer)
 
-- 🌱 I’m currently learning **C#, Java and Godot**
+- 🌱 I’m currently learning **C# and C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
